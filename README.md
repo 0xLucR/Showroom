@@ -4,7 +4,7 @@
 - Projeto em camadas com Injeção de Dependência
 - Uso de Generics
 - Padrão Repository com Entity Framework Core para acesso a dados.
-- Clean Code, endepoint de APIs acessivél com Swagger
+- Clean Code, endpoint de APIs acessivél com Swagger
 
 
 ##  Arquitetura Multicamadas
@@ -23,7 +23,7 @@ arquitetura adotada no projeto:
 
 ## Continuação....
 
-- Primeira fazer do projeto concluida.
+- Primeira parte do projeto concluida, (Estrutura do projeto).
 - Para continuação do projeto sera implementado as seguintes estruturas:
   - Validations
   - Domain Notification
