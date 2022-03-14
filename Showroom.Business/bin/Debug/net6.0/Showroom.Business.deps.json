@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Showroom.Business/1.0.0": {
+        "dependencies": {
+          "Showroom.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Showroom.Business.dll": {}
+        }
+      },
+      "Showroom.Domain/1.0.0": {
+        "runtime": {
+          "Showroom.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Showroom.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Showroom.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

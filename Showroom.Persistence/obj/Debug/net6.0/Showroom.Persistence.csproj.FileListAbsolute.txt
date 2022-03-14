@@ -1,0 +1,15 @@
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Persistence\bin\Debug\net6.0\Showroom.Persistence.deps.json
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Persistence\bin\Debug\net6.0\Showroom.Persistence.dll
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Persistence\bin\Debug\net6.0\ref\Showroom.Persistence.dll
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Persistence\bin\Debug\net6.0\Showroom.Persistence.pdb
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Persistence\obj\Debug\net6.0\Showroom.Persistence.csproj.AssemblyReference.cache
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Persistence\obj\Debug\net6.0\Showroom.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Persistence\obj\Debug\net6.0\Showroom.Persistence.AssemblyInfoInputs.cache
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Persistence\obj\Debug\net6.0\Showroom.Persistence.AssemblyInfo.cs
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Persistence\obj\Debug\net6.0\Showroom.Persistence.csproj.CoreCompileInputs.cache
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Persistence\obj\Debug\net6.0\Showroom.Persistence.dll
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Persistence\obj\Debug\net6.0\ref\Showroom.Persistence.dll
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Persistence\obj\Debug\net6.0\Showroom.Persistence.pdb
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Persistence\bin\Debug\net6.0\Showroom.Domain.dll
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Persistence\bin\Debug\net6.0\Showroom.Domain.pdb
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Persistence\obj\Debug\net6.0\Showroom.Persistence.csproj.CopyComplete

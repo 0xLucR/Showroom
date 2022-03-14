@@ -1,0 +1,15 @@
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Business\bin\Debug\net6.0\Showroom.Business.deps.json
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Business\bin\Debug\net6.0\Showroom.Business.dll
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Business\bin\Debug\net6.0\ref\Showroom.Business.dll
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Business\bin\Debug\net6.0\Showroom.Business.pdb
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Business\bin\Debug\net6.0\Showroom.Domain.dll
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Business\bin\Debug\net6.0\Showroom.Domain.pdb
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Business\obj\Debug\net6.0\Showroom.Business.csproj.AssemblyReference.cache
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Business\obj\Debug\net6.0\Showroom.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Business\obj\Debug\net6.0\Showroom.Business.AssemblyInfoInputs.cache
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Business\obj\Debug\net6.0\Showroom.Business.AssemblyInfo.cs
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Business\obj\Debug\net6.0\Showroom.Business.csproj.CoreCompileInputs.cache
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Business\obj\Debug\net6.0\Showroom.Business.csproj.CopyComplete
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Business\obj\Debug\net6.0\Showroom.Business.dll
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Business\obj\Debug\net6.0\ref\Showroom.Business.dll
+D:\Dev\src\Projects\dotNET\Showroom\Showroom.Business\obj\Debug\net6.0\Showroom.Business.pdb
